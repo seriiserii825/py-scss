@@ -1,4 +1,3 @@
-color: var(--Blue-Darkest, #0F1036);
-text-align: center;
+color: --accent-dark;
 font-size: 3.2rem;
 font-weight: 500;

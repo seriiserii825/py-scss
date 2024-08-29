@@ -38,5 +38,5 @@ while True:
         file.write(current_clipboard_content)
       last_clipboard_content = current_clipboard_content
       if ':' in current_clipboard_content:
-        scssHandler(temp_file)
+        scssHandler(temp_file, variables_file)
     time.sleep(0.5)
