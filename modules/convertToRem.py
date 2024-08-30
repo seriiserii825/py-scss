@@ -17,9 +17,7 @@ def convertToRem(file_path):
                         elem = arr[j];
                         if ';' in arr[j]:
                             arr[j] = arr[j].replace(';', '')
-                        print(arr[j])
-                        number = int(arr[j].replace('px', '')) / 10
-                        print(number)
+                        number = float(arr[j].replace('px', '')) / 10
                         if ';' in elem:
                             arr[j] = str(number) + 'rem;'
                         else:
@@ -29,8 +27,3 @@ def convertToRem(file_path):
             data[i] = data[i]
     with open(file_path, 'w') as file:
         file.writelines(data)
-    # with open(file_path, 'r') as file:
-    #     addToClipBoardFile(file_path)
-    #     file_content = file.read()
-    #     subprocess.Popen(['notify-send', file_content])
-

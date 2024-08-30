@@ -1,1 +1,7 @@
-var(--Blue-Darkest, #0F1036)|--accent-dark
+var(--Blue-Darkest, #0F1036)|var(--accent-darkest)
+var(--Blue-Dark, #292A73)|var(--accent-dark)
+var(--Violet-Dark, #3C2E84)|var(--accent)
+Montserrat|var(--font-3)
+var(--White, #FFF)|white
+"Clash Display"|delete
+"Clash Display Variable"|delete
