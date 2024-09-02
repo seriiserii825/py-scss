@@ -1,0 +1,4 @@
+var(--main, #02ACEA)|var(--accent)
+var(--dark-blue, #00194F)|var(--accent-dark)
+Raleway|var(--font-2)
+Nunito|delete

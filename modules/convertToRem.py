@@ -7,7 +7,7 @@ def convertToRem(file_path):
          data = file.readlines()
     for i in range(len(data)):
         if 'px' in data[i]:
-            ignored_props = ['border', 'max-width', 'linear-gradient', '&', 'width: 0.1rem ;', 'height: 1px;']
+            ignored_props = ['border: 1px', 'max-width', 'linear-gradient', '&', 'width: 0.1rem ;', 'height: 1px;']
             if any(prop in data[i] for prop in ignored_props):
                 continue
             else:

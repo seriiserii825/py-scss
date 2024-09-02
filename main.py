@@ -17,7 +17,7 @@ current_directory = os.getcwd()
 current_directory_name = os.path.basename(current_directory)
 variables_file = os.path.join(projects_dir, current_directory_name + '.txt')
 
-# checkVariableFile(variables_file)
+checkVariableFile(variables_file)
 
 
 temp_file = os.path.join(projects_dir, 'temp.txt')
