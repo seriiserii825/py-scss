@@ -1,0 +1,5 @@
+Oswald|delete
+#292A24|var(--text-color)
+#2A2A2A|var(--accent)
+Catamaran|var(--font-2)
+Roboto|var(--font-3)
