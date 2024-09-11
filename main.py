@@ -8,8 +8,8 @@ from modules.checkVariableFile import checkVariableFile
 from modules.scssHandler import scssHandler
 
 # check if is file front-page.php
-if not os.path.isfile('front-page.php'):
-    exit(colored('File front-page.php not found', "red"))
+if not os.path.isfile('style.css'):
+    exit(colored('File style.css not found', "red"))
 
 current_script_directory = os.path.dirname(os.path.realpath(__file__))
 projects_dir= os.path.join(current_script_directory, 'projects')
