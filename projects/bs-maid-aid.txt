@@ -1,0 +1,3 @@
+"Poppins"|delete
+var(--Gray, #797979)|var(--gray)
+"Migraitalic"|var(--font-3)
