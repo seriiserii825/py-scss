@@ -1,3 +1,4 @@
 Poppins|delete
 var(--Gray, #797979)|var(--gray)
+var(--Blue-Darkest, #020830)|var(--text-color)
 "Migra Italic"|var(--font-3)
