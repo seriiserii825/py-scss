@@ -1,0 +1,7 @@
+var(--Blue, #0294DD)|var(--accent)
+rgba(30, 24, 55, 0.50)|var(--accent-dark)
+var(--Blue-Light, #7DC8F2)|var(--accent-light)
+var(--Violet-Darkest, #1E1837)|var(--text-color)
+var(--Gray-Bluesh, #67666D)|var(--text-gray)
+var(--Violet-Unsaturated, #524A73)|var(--text-light)
+Dmsans|delete
