@@ -1,1 +1,5 @@
-1px
+font-family: "DM Sans";
+font-size: 1.5rem;
+font-weight: 600;
+text-align: center;
+color: var(--text-color);

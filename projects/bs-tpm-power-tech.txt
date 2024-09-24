@@ -5,3 +5,4 @@ var(--Violet-Darkest, #1E1837)|var(--text-color)
 var(--Gray-Bluesh, #67666D)|var(--text-gray)
 var(--Violet-Unsaturated, #524A73)|var(--text-light)
 Dmsans|delete
+"DM Sans"|delete
