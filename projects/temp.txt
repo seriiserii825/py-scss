@@ -1,1 +1,1 @@
-var(--bg-color)
+3.2rem
