@@ -1,4 +1,5 @@
 Moderustic|delete
+font-variant-numeric|delete
 var(--Red, #F24646)|var(--accent)
 var(--Blue-Darkest, #00112B)|var(--text-color)
 #00112B|var(--contrast)
