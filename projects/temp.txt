@@ -1,1 +1,1 @@
-font-variant-numeric
+background: var(--accent);
