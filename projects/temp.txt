@@ -1,1 +1,1 @@
-text-shadow: 0.0rem 0.4rem 6.4rem rgba(0, 15, 16, 0.20);
+
