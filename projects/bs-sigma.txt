@@ -1,0 +1,5 @@
+var(--Pink, #CC3567)|var(--accent)
+"Metropolis"|delete
+Metropolis|delete
+var(--Buesh-Green-Dark, #002F33)|var(--text-color)
+var(--Green-Darkest, #001719)|var(--text-dark)
