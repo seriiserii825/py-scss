@@ -3,7 +3,8 @@ def sortLines(file_path):
         lines = file.readlines()
         color_lines = moveLine(lines, 'color:', 'background:')
         text_align_lines = moveLine(color_lines, 'text-align:', 'color:')
-        lines = text_align_lines
+        text_shadow_lines = moveLine(text_align_lines, 'text-shadow:', 'color:')
+        lines = text_shadow_lines
     with open(file_path, 'w') as file:
         file.writelines(lines)
 
