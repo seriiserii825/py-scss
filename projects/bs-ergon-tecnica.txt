@@ -1,0 +1,4 @@
+var(--Green, #139A48)|var(--accent)
+var(--Gray, #7D7D7D)|var(--text-color)
+var(--Gray-Darkest, #040303)|var(--text-dark)
+Aeonik|delete
