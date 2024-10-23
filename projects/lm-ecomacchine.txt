@@ -1,3 +1,4 @@
 Inter|delete
 #145C2B|var(--green)
 #66B32E|var(--green-light)
+"Century Gothic"|var(--font-2)
