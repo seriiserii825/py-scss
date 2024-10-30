@@ -1,0 +1,4 @@
+#0087E7|var(--accent)
+#00256D|var(--accent-dark)
+Prata|var(--font-1)
+"Suisse Intl"|var(--font-2)
