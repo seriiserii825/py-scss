@@ -1,0 +1,3 @@
+Manrope|delete
+var(--purple, #8C52FF)|var(--accent)
+var(--Color, #494747)|var(--text-color)
