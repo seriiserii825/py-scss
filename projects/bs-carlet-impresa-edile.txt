@@ -1,5 +1,5 @@
 "PP Mori"|delete
 var(--Gray-Light, #717C80)|delete
-#FE2960|var(--accent)
 var(--Red, #FE2960)|var(--accent)
+#FE2960|var(--accent)
 #00448C|var(--contrast)
