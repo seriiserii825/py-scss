@@ -3,3 +3,4 @@ var(--Gray-Light, #717C80)|delete
 var(--Red, #FE2960)|var(--accent)
 #FE2960|var(--accent)
 #00448C|var(--contrast)
+var(--Blue-Darkest, #001B2C)|var(--contrast-dark)
