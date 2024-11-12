@@ -1,0 +1,3 @@
+var(--Black, #000)|#000
+"DM Sans"|delete
+Manrope|var(--font-2)
