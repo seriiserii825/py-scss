@@ -1,3 +1,5 @@
-var(--Black, #000)|#000
 "DM Sans"|delete
+var(--Black, #000)|#000
 Manrope|var(--font-2)
+#013155|var(--contrast)
+#DA2128|var(--accent)
