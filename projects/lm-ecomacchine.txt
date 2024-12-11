@@ -1,4 +1,5 @@
 Inter|delete
 #145C2B|var(--green)
 #66B32E|var(--green-light)
+#5B5F59|var(--text-color)
 "Century Gothic"|var(--font-2)
