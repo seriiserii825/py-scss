@@ -1,1 +1,2 @@
 "Plus Jakarta Sans"|delete
+var(--White, #fff)|#fff
