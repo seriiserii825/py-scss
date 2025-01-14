@@ -1,0 +1,5 @@
+"Blauer Nue"|var(--font-2)
+"Pacifico"|var(--font-3)
+Pacifico|var(--font-3)
+#F00|var(--accent)
+Poppins|delete
