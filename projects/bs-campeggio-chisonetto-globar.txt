@@ -1,0 +1,4 @@
+"Instrument Sans"|delete
+var(--Orange, #FF7B00)|var(--accent)
+var(--Dark-Green, #356337)|var(--contrast)
+var(--Graish-Green, #818B82)|var(--text-color)
