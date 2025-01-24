@@ -1,0 +1,2 @@
+Helvetica|delete
+var(--primary, #FFF009)|var(--accent)
