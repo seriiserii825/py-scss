@@ -1,5 +1,5 @@
 Helvetica|delete
 var(--primary, #FFF009)|var(--accent)
 #FFF009|var(--accent)
-background: var(--gray, #585858)|var(--contrast)
+var(--gray, #585858)|var(--contrast)
 #585858|var(--contrast)
