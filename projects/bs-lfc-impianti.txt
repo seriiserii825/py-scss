@@ -1,4 +1,5 @@
 Helvetica|delete
+Inter|delete
 var(--primary, #FFF009)|var(--accent)
 #FFF009|var(--accent)
 var(--gray, #585858)|var(--contrast)
