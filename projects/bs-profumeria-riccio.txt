@@ -1,0 +1,2 @@
+Trirong|delete
+#381B0B|var(--text-color)
