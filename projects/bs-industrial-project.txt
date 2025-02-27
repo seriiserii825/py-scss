@@ -1,2 +1,2 @@
 Figtree|delete
-
+#19B5FE|var(--accent)
