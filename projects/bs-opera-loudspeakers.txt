@@ -1,1 +1,2 @@
 Figtree|delete
+"Playfair Display"|var(--font-2)
