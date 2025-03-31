@@ -1,2 +1,3 @@
 "Aeonik"|delete
+Aeonik|delete
 "Bodoni Moda"|var(--font-2)
