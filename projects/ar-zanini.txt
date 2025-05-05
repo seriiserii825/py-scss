@@ -1,0 +1,4 @@
+var(--Gray, #7E7E7E)|var(--gray)
+var(--Violet-Dark, #070941)|var(--text-color)
+var(--Bluegreysh, #5F9CBD)|var(--accent-medium)
+"Work Sans"|delete
