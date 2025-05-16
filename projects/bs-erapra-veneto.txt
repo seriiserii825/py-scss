@@ -2,6 +2,7 @@
 #1A1A1A|delete
 #FFF|delete
 #fff|delete
+450|delete
 #737373|var(--text-light)
 var(--Green, #007338)|var(--accent)
 #007338|var(--accent)
