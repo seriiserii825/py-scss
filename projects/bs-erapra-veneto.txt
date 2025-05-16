@@ -1,5 +1,5 @@
 "Suisse Intl"|delete
 #1A1A1A|delete
 #737373|var(--text-light)
-var(--Green, #007338|var(--accent)
+var(--Green, #007338)|var(--accent)
 #007338|var(--accent)
