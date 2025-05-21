@@ -1,0 +1,6 @@
+"Alegreya Sans"|delete
+Alegreya Sans|delete
+#347928|var(--accent)
+#C0EBA6|var(--accent-light)
+#DFF5D2|var(--accent-lighten)
+#FCCD2A|var(--contrast)
