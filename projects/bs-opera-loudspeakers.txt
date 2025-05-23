@@ -2,3 +2,4 @@ Figtree|delete
 "Playfair Display"|var(--font-2)
 "Playfair Display SC"|var(--font-3)
 Playfair|var(--font-2)
+Forum|var(--font-5)
