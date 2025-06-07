@@ -7,7 +7,6 @@ import pyperclip
 from modules.checkVariableFile import checkVariableFile
 from modules.scssHandler import scssHandler
 
-# check if is file front-page.php
 if not os.path.isfile('package.json'):
     exit(colored('File package.json not found', "red"))
 
