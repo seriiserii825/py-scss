@@ -19,4 +19,3 @@ def scssHandler(file_path, variables_path):
         addToClipBoardFile(file_path)
         file_content = file.read()
         subprocess.Popen(['notify-send', file_content])
-
