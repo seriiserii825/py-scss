@@ -3,7 +3,7 @@ name = "py-scss"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "serii burduja",email = "seriiburduja@gmail.com"}
+    {name = "serii_burduja",email = "seriiburduja@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10,<4.0"
