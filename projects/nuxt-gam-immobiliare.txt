@@ -1,1 +1,3 @@
 var(--Blue-Digital, #2964E4)|var(--accent)
+var(--Blue-Darkest, #111826)|delete
+Manrope|delete
