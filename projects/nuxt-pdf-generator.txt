@@ -1,0 +1,3 @@
+"Eina 01"|delete
+var(--Green, #0A4D57)|var(--accent)
+#0A4D57|var(--accent)
