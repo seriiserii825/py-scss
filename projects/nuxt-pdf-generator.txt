@@ -1,4 +1,5 @@
 "Eina 01"|delete
+Comfortaa|var(--font-2)
 var(--Green, #0A4D57)|var(--accent)
 #0A4D57|var(--accent)
 #777|var(--text-gray)
