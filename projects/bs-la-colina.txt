@@ -1,0 +1,2 @@
+"Playfair Display"|var(--font-2)
+Manrope|delete
