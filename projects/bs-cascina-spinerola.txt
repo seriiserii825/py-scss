@@ -1,3 +1,4 @@
 Inter|delete
 var(--Dark-brown, #261D18)|delete
+var(--white, #fffffa)|delete
 "Kaftan Serif - Trial"|var(--font-2)
