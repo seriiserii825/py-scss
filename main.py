@@ -1,8 +1,8 @@
 import os
-from termcolor import colored
-
 import time
+
 import pyperclip
+from termcolor import colored
 
 from modules.checkVariableFile import checkVariableFile
 from modules.scssHandler import scssHandler
