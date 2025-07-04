@@ -1,12 +1,13 @@
 def sortLines(file_path):
-    with open(file_path, 'r') as file:
+    with open(file_path, "r") as file:
         lines = file.readlines()
-        color_lines = moveLine(lines, 'color:', 'background:')
-        text_align_lines = moveLine(color_lines, 'text-align:', 'color:')
-        text_shadow_lines = moveLine(text_align_lines, 'text-shadow:', 'color:')
+        color_lines = moveLine(lines, "color:", "background:")
+        text_align_lines = moveLine(color_lines, "text-align:", "color:")
+        text_shadow_lines = moveLine(text_align_lines, "text-shadow:", "color:")
         lines = text_shadow_lines
-    with open(file_path, 'w') as file:
+    with open(file_path, "w") as file:
         file.writelines(lines)
+
 
 def moveLine(lines, prop_1, prop_2=None):
     if any(prop_1 in line for line in lines):

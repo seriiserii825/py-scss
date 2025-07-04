@@ -20,13 +20,13 @@ def scssHandler(file_path, variables_path):
     except ValueError as e:
         print(f"Error: {e}")
         return
-    if convert_to_rem == '1':
+    if convert_to_rem == "1":
         convertToRem(file_path)
     deleteLines(file_path)
     convertVariables(file_path, variables_path)
     sortLines(file_path)
     removeEmptyLines(file_path)
-    with open(file_path, 'r') as file:
+    with open(file_path, "r") as file:
         addToClipBoardFile(file_path)
         file_content = file.read()
-        subprocess.Popen(['notify-send', file_content])
+        subprocess.Popen(["notify-send", file_content])

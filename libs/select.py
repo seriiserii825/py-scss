@@ -7,14 +7,17 @@ def selectOne(options):
     menu_entry_index = terminal_menu.show()
     return options[menu_entry_index]
 
+
 # selectOne(getThemes())
 
 
 def selectMultiple(options):
-    terminal_menu = TerminalMenu(options,
-                                 multi_select=True,
-                                 show_multi_select_hint=True,
-                                 show_search_hint=True,
-                                 preview_command="bat --color=always {}", preview_size=0.75
-                                 )
+    terminal_menu = TerminalMenu(
+        options,
+        multi_select=True,
+        show_multi_select_hint=True,
+        show_search_hint=True,
+        preview_command="bat --color=always {}",
+        preview_size=0.75,
+    )
     return terminal_menu.chosen_menu_entries
