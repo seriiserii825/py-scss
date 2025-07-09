@@ -1,4 +1,5 @@
 "Instrument Sans"|delete
+#FFF|delete
 var(--Ocean-Depths, #05424C)|var(--accent)
 #05424C|var(--accent)
 "Amsterdam Signature"|var(--font-2)
