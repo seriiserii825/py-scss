@@ -1,0 +1,2 @@
+var(--Ocean-Depths, #05424C)|var(--accent)
+#05424C|var(--accent)
