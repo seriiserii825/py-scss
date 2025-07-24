@@ -1,0 +1,24 @@
+[project]
+name = "py-scss"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "serii",email = "seriiburduja@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<4.0"
+dependencies = [
+    "autopep8 (==2.3.2)",
+    "flake8 (==7.3.0)",
+    "mccabe (==0.7.0)",
+    "mypy (==1.17.0)",
+    "mypy-extensions (==1.1.0)",
+    "pathspec (==0.12.1)",
+    "pycodestyle (==2.14.0)",
+    "pyflakes (==3.4.0)",
+    "pyperclip (==1.9.0)",
+    "termcolor (==3.1.0)",
+    "typing-extensions (==4.14.1)"
+]
+
+
