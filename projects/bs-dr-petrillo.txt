@@ -1,0 +1,5 @@
+Raleway|delete
+Oswald|var(--font-2)
+"Qwitcher Grypen"|var(--font-3)
+#009AB2|var(--accent)
+rgba(0, 154, 178, 0.90)|var(--accent-dark)
