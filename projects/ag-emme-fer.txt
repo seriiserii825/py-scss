@@ -1,0 +1,2 @@
+Inter|delete
+var(--Yellow, #FECD3E)|var(--accent)
