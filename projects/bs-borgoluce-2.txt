@@ -1,0 +1,4 @@
+"SempioneGrotesk"|delete
+#000|delete
+"Fulmar"|$fulmar
+Fulmar|$fulmar
