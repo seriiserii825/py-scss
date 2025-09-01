@@ -1,2 +1,3 @@
 "Red Hat Display"|delete
+#0A1E43|delete
 #456AAF|var(--accent)
