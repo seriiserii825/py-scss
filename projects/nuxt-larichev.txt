@@ -1,2 +1,3 @@
 var(--font-family)|delete
 var(--second-family)|var(--font-2)
+#a18a68|var(--accent)
