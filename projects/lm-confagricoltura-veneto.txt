@@ -1,0 +1,3 @@
+"Suisse Intl"|delete
+var(--White, #FFF)|white
+var(--Yellow, #FDC60D)|var(--yellow)
