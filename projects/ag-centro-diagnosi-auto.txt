@@ -1,0 +1,2 @@
+Inter|delete
+#23b05d|var(--accent)
