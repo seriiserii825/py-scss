@@ -1,3 +1,4 @@
 "Suisse Intl"|delete
+var(--Green-Darkest, #003018)|delete
 var(--White, #FFF)|white
-var(--Yellow, #FDC60D)|var(--yellow)
+var(--Yellow, #FDC60D)|var(--accent-light)
