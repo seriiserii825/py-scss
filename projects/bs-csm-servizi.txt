@@ -4,3 +4,4 @@ var(--White, #FFF)|delete
 var(--Rose, #BF5654)|var(--accent)
 var(--Bluesh-Dark, #1B5C76)|var(--contrast)
 var(--Blue, #3A7F9A)|var(--contrast-light)
+var(--Gray-Darkest, #043142)|var(--text-dark)
