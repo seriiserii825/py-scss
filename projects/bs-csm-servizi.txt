@@ -1,4 +1,5 @@
 Aeonik|delete
+var(--White, #fff)|delete
 var(--Rose, #BF5654)|var(--accent)
 var(--Bluesh-Dark, #1B5C76)|var(--contrast)
 var(--Blue, #3A7F9A)|var(--contrast-light)
