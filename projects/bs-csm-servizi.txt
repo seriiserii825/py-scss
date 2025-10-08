@@ -6,3 +6,4 @@ var(--Bluesh-Dark, #1B5C76)|var(--contrast)
 var(--Blue, #3A7F9A)|var(--contrast-light)
 var(--Gray-Darkest, #043142)|var(--text-dark)
 var(--Bluegraish, #86b9cd),var(--text-light)
+font-weight: 250;|font-weight: 300;
