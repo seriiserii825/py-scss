@@ -9,6 +9,8 @@ def deleteLines(file_path):
             "text-overflow",
             "overflow",
             "font-kerning",
+            "color: var(--White, #FFF)",
+            "color: var(--white, #fff)",
         ]
         if any(prop in data[i] for prop in to_delete):
             data[i] = ""
