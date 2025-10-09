@@ -1,4 +1,4 @@
 "Instrument Sans"|delete
 Inter|var(--font-2)
-font-weight: 250;|font-weight: 300;
+font-weight: 250;|font-weight: 200;
 var(--Bej-Slight-Dark, #98875C)|var(--accent)
