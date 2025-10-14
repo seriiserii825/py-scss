@@ -1,3 +1,7 @@
 Avenir|delete
 var(--White, #F9FAFB)|var(--text-white)
 #F9FAFB|var(--text-white)
+var(--Blue, #3A7CA5)|var(--accent)
+#3A7CA5|var(--accent)
+var(--Dark-bleumarin, #1A2A3A)|var(--text-color)
+#1A2A3A|var(--text-color)
