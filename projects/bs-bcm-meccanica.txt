@@ -1,0 +1,5 @@
+var(--white, #F6F6F6)|delete
+Poppins|delete
+#159FDB|var(--accent)
+#0D3B66|var(--accent-dark)
+#19beff|var(--accent-light)
