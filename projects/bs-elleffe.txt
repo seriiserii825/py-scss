@@ -1,0 +1,5 @@
+Arial|delete
+var(--Blue, #2758C1)|var(--accent)
+#2758C1|var(--accent)
+var(--Raspberry, #E30B5C)|var(--contrast)
+#E30B5C|var(--contrast)
