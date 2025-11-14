@@ -1,4 +1,5 @@
-"OpenSans"|delete
+OpenSans|delete
+Open Sans|delete
 #424242|delete
 "Helvetica Neue"|var(--font-2)
 "RussoOne"|var(--font-3)
