@@ -6,3 +6,4 @@ Open Sans|delete
 "Russo One"|var(--font-3)
 #cd0000|var(--accent)
 #CD0000|var(--accent)
+#292929|var(--contrast)
