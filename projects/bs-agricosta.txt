@@ -1,0 +1,5 @@
+Instrument Sans|delete
+var(--Green, #063)|var(--accent)
+#063|var(--accent)
+var(--Orange, #F39200)|var(--contrast)
+#F39200|var(--contrast)
