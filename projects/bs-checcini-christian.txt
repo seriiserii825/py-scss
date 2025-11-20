@@ -1,0 +1,6 @@
+Instrument Sans|delete
+var(--White, #FFF)|delete
+var(--Red, #B30322)|var(--accent)
+#B30322|var(--accent)
+var(--Blue, #064E96)|var(--contrast)
+#064E96|var(--contrast)
