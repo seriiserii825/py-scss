@@ -1,0 +1,5 @@
+Instrument Sans|delete
+var(--Blu, #3D8EB9)|var(--accent)
+"Playfair Display"|var(--font-2)
+var(--Dark, #3A3A3A)|var(--contrast)
+#3A3A3A|var(--contrast)
