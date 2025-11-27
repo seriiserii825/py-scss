@@ -1,3 +1,4 @@
 Aeonik|delete
 var(--Green, #A8CF3F);|var(--contrast)
 var(--White, #FFF)|#fff
+var(--Deep-Sea, #000627)|var(--accent)
