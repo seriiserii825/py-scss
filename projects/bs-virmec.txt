@@ -6,4 +6,3 @@ var(--Deep-Blue, #21409A)|var(--accent)
 #21409A|var(--accent)
 var(--Green, #00A651)|var(--contrast)
 #00A651|var(--contrast)
-
