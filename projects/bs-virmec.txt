@@ -1,0 +1,9 @@
+Albert Sans|delete
+var(--White, #FFF)|delete
+var(--Bluesh-Dark, #252D44)|delete
+#252D44|delete
+var(--Deep-Blue, #21409A)|var(--accent)
+#21409A|var(--accent)
+var(--Green, #00A651)|var(--contrast)
+#00A651|var(--contrast)
+
