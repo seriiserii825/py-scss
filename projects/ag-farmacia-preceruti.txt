@@ -1,5 +1,5 @@
 Nunito Sans|delete
 var(--dark, #00370F)|var(--text-color)
 var(--accent, #2FAE4A)|var(--accent)
-color: var(--white, #FFF)|var(--contrast)
+var(--white, #FFF)|var(--contrast)
 var(--dark-green, #12702C)|var(--dark-green)
