@@ -1,0 +1,2 @@
+Public Sans|delete
+#000|var(--text-color)
