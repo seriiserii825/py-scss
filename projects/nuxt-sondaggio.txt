@@ -1,3 +1,4 @@
 Eina 01|delete
 var(--Blue, #366DF4)|var(--accent)
 #366DF4|var(--accent)
+Manrope|var(--font-2)
