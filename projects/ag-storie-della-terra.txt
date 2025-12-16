@@ -1,0 +1,11 @@
+Grift|delete
+#FFF7E3|var(--light)
+#E3D892|var(--yellow)
+#2F3A34|var(--contrast-dark)
+#3A2B23|var(--text-color)
+#4F7C5B|var(--contrast)
+#C7513C|var(--accent)
+#8A6E57|var(--brown)
+#F3E4C4|var(--cream)
+
+
