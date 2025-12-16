@@ -7,5 +7,3 @@ Grift|delete
 #C7513C|var(--accent)
 #8A6E57|var(--brown)
 #F3E4C4|var(--cream)
-
-

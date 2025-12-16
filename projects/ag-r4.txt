@@ -1,0 +1,4 @@
+Instrument Sans|delete
+#F2F2F2|var(--text)
+var(--Red, #E0373C)|var(--accent)
+var(--Blue, #4C7CAC)|var(--contrast)
