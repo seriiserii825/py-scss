@@ -1,3 +1,4 @@
 Source Sans Pro|delete
 #375297|var(--accent)
 #2d437c|var(--accent-light)
+Amazone|var(--font-2)
