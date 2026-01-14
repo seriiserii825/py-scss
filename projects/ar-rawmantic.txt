@@ -1,3 +1,4 @@
 Core Rhino 45 Regular|delete
 font-family: "Core Rhino 65 Bold"|font-family: var(--font-65-bold);
 font-family: 'Core Rhino 55 Medium';|font-family: var(--font-55-medium);
+Quicksand|var(--font-2)
