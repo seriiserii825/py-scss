@@ -1,0 +1,3 @@
+Poppins|delete
+#717171|var(--text-color)
+#C62828|var(--accent)
