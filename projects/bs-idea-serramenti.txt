@@ -1,0 +1,5 @@
+Avenir|delete
+var(--Dark-Bluesh-Gry, #232C34)|var(--text-color)
+#232C34|var(--text-color)
+var(--Gray, #7D8287)|var(--text-light)
+#7D8287|var(--text-light)
