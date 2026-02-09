@@ -1,2 +1,5 @@
 var(--Wine-red, #9E2345)|var(--accent)
 #9E2345|var(--accent)
+var(--Dark-brown, #443024)|var(--text-color)
+#443024|var(--text-color)
+var(--Text-Sizes-Heading-1, 84px)|8.4rem
