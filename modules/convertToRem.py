@@ -2,7 +2,7 @@
 
 # from libs.buffer import addToClipBoardFile
 def convertToRem(file_path):
-    ## find in file_path px and divide by 10 and write rem
+    # find in file_path px and divide by 10 and write rem
     with open(file_path, "r") as file:
         data = file.readlines()
     for i in range(len(data)):
@@ -25,6 +25,7 @@ def convertToRem(file_path):
                         if ";" in arr[j]:
                             arr[j] = arr[j].replace(";", "")
                         number = float(arr[j].replace("px", "")) / 10
+                        number = round(number, 2)
                         if ";" in elem:
                             arr[j] = str(number) + "rem;"
                         else:
