@@ -1,37 +1,38 @@
-# import subprocess
+import re
 
-# from libs.buffer import addToClipBoardFile
+
 def convertToRem(file_path):
-    # find in file_path px and divide by 10 and write rem
     with open(file_path, "r") as file:
         data = file.readlines()
+
     for i in range(len(data)):
-        if "px" in data[i]:
-            ignored_props = [
-                "border: 1px",
-                "max-width",
-                "linear-gradient",
-                "&",
-                "width: 0.1rem ;",
-                "height: 1px;",
-            ]
-            if any(prop in data[i] for prop in ignored_props):
-                continue
-            else:
-                arr = data[i].split(" ")
-                for j in range(len(arr)):
-                    if "px" in arr[j]:
-                        elem = arr[j]
-                        if ";" in arr[j]:
-                            arr[j] = arr[j].replace(";", "")
-                        number = float(arr[j].replace("px", "")) / 10
-                        number = round(number, 2)
-                        if ";" in elem:
-                            arr[j] = str(number) + "rem;"
-                        else:
-                            arr[j] = str(number) + "rem"
-                data[i] = " ".join(arr) + "\n"
-        else:
-            data[i] = data[i]
+        line = data[i]
+
+        # 1) var(--*, Npx)  -->  N/10 rem  (убираем var полностью)
+        def replace_var(match):
+            px = float(match.group(1))
+            rem = round(px / 10, 2)
+            return f"{rem}rem"
+
+        line = re.sub(r"var\([^,]+,\s*([\d.]+)px\)", replace_var, line)
+
+        # 2) обычные px → rem (если остались)
+        ignored_props = [
+            "border: 1px",
+            "linear-gradient",
+            "&",
+        ]
+
+        if "px" in line and not any(p in line for p in ignored_props):
+
+            def replace_px(match):
+                px = float(match.group(1))
+                rem = round(px / 10, 2)
+                return f"{rem}rem"
+
+            line = re.sub(r"([\d.]+)px", replace_px, line)
+
+        data[i] = line
+
     with open(file_path, "w") as file:
         file.writelines(data)
