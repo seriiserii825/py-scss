@@ -1,0 +1,2 @@
+var(--Wine-red, #9E2345)|var(--accent)
+#9E2345|var(--accent)
