@@ -16,6 +16,7 @@ current_directory = os.getcwd()
 current_directory_name = os.path.basename(current_directory)
 variables_file = os.path.join(projects_dir, current_directory_name + ".txt")
 
+# Check if the variables file exists, if not create it
 checkVariableFile(variables_file)
 
 
