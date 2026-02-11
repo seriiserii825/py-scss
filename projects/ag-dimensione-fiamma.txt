@@ -1,0 +1,9 @@
+"Roboto Condensed"|delete
+Inter|var(--font-2)
+#FFF|var(--white)
+#000|var(--black)
+var(--Blue, #00B5FD)|var(--accent)
+var(--Green, #8AC64E)|var(--green)
+var(--Blue-Dark, #0F4459)|var(--text-color)
+#0F4459|var(--text-color)
+var(--Blue, #F71B25)|var(--contrast)
