@@ -19,7 +19,7 @@ variables_file = os.path.join(projects_dir, current_directory_name + ".txt")
 # Check if the variables file exists, if not create it
 checkVariableFile(variables_file)
 
-
+# Create a temporary file to store the clipboard content
 temp_file = os.path.join(projects_dir, "temp.txt")
 os.system('echo "" > ' + temp_file)
 time.sleep(1)
@@ -27,6 +27,7 @@ time.sleep(1)
 # Initialize the last clipboard content to an empty string
 last_clipboard_content = ""
 
+# Continuously monitor the clipboard for changes
 while True:
     current_clipboard_content = pyperclip.paste()
     if current_clipboard_content != last_clipboard_content:
