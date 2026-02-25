@@ -8,4 +8,3 @@ var(--Blue, #F71B25)|var(--contrast)
 #FFF|var(--white)
 #000|var(--black)
 #0F4459|var(--text-color)
-

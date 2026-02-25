@@ -1,0 +1,6 @@
+"Albert Sans"|delete
+var(--Gray-Darkest, #0A0A0A)|var(--text-color)
+var(--Gray-Darker, #373737)|var(--dark)
+var(--Red, #E30612)|var(--accent)
+var(--Gray-Light, #D9D9D9)|var(--light)
+#FFF|var(--contrast)
