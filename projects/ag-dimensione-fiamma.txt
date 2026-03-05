@@ -1,4 +1,6 @@
 "Roboto Condensed"|delete
+-webkit-text-stroke-width|delete
+-webkit-text-stroke-color|delete
 Inter|var(--font-2)
 var(--White, #FFF)|var(--white)
 var(--Blue, #00B5FD)|var(--accent)
