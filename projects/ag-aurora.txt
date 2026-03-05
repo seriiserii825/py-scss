@@ -1,0 +1,4 @@
+Lato|delete
+#FFF|var(--white)
+#ED1C24|var(--accent)
+#2F2F2F|var(--text-color)
