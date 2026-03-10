@@ -1,0 +1,1 @@
+var(--Green, #4DB749)|var(--accent)
