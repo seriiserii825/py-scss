@@ -2,3 +2,4 @@ var(--Bluesh-Darkest, #072238)|delete
 Hanken Grotesk|delete
 var(--Green, #4DB749)|var(--accent)
 var(--Blue, #025DA8)|var(--contrast)
+var(--Gray-Lighter, #6D85A0)|var(--text-light)
