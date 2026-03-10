@@ -1,2 +1,3 @@
-var(--Green, #4DB749)|var(--accent)
 var(--Bluesh-Darkest, #072238)|delete
+Sofia Sans|delete
+var(--Green, #4DB749)|var(--accent)
