@@ -1,4 +1,4 @@
 Aeonik|delete
-var(--Primary, #4570B1)|var(--accent)
-var(--Text, #1F2A37)|var(text-color)
 var(--White, #FFF)|var(--contrast)
+var(--Primary, #4570B1)|var(--accent)
+var(--Text, #1F2A37)|var(--text-color)
