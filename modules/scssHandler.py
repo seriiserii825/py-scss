@@ -10,8 +10,7 @@ from modules.removeEmptyLines import removeEmptyLines
 from modules.sortLines import sortLines
 
 
-def scssHandler(file_path, variables_path):
-    agree_to_rem = input("Do you want to convert px to rem? (y/n): ")
+def scssHandler(file_path, variables_path, agree_to_rem):
     if agree_to_rem.lower() == "y":
         convert_to_rem_func(file_path)
     removeComment(file_path)

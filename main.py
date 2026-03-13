@@ -10,6 +10,8 @@ from modules.scssHandler import scssHandler
 if not os.path.isfile("package.json"):
     exit(colored("File package.json not found", "red"))
 
+agree_to_rem = input("Do you want to convert px to rem? (y/n): ")
+
 current_script_directory = os.path.dirname(os.path.realpath(__file__))
 projects_dir = os.path.join(current_script_directory, "projects")
 current_directory = os.getcwd()
@@ -36,5 +38,5 @@ while True:
             file.write(current_clipboard_content)
         last_clipboard_content = current_clipboard_content
         if ":" in current_clipboard_content:
-            scssHandler(temp_file, variables_file)
+            scssHandler(temp_file, variables_file, agree_to_rem)
     time.sleep(0.5)
