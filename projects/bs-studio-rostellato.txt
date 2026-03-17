@@ -1,3 +1,4 @@
 Quicksand|delete
 #2B2B2B|var(--text-color)
 #2b2b2b|var(--text-color)
+"Libre Baskerville"|var(--font-2)
