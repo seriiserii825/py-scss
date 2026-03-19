@@ -1,4 +1,5 @@
 Instrument Sans|delete
+var(--White, #FFF)|delete
 var(--Red, #B6182A)|var(--accent)
 #B6182A|var(--accent)
 #60D669|var(--contrast)
