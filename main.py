@@ -1,5 +1,6 @@
 import os
 import time
+import argparse
 
 import pyperclip
 from termcolor import colored
@@ -10,7 +11,11 @@ from modules.scssHandler import scssHandler
 if not os.path.isfile("package.json"):
     exit(colored("File package.json not found", "red"))
 
-agree_to_rem = input("Do you want to convert px to rem? (y/n): ")
+parser = argparse.ArgumentParser()
+parser.add_argument("--to-rem", action="store_true", help="Convert px to rem")
+args = parser.parse_args()
+
+agree_to_rem = args.to_rem
 
 current_script_directory = os.path.dirname(os.path.realpath(__file__))
 projects_dir = os.path.join(current_script_directory, "projects")
