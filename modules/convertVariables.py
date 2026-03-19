@@ -1,3 +1,6 @@
+import re
+
+
 def convertVariables(file_path, variables_path):
     with open(variables_path, "r") as file:
         variables = file.readlines()
@@ -8,11 +11,16 @@ def convertVariables(file_path, variables_path):
     for i in range(len(data)):
         for j in range(len(variables)):
             var_array = variables[j].split("|")
-            if var_array[0] in data[i]:
+            if var_array[0].lower() in data[i].lower():
                 # print('var_array[0]: ', var_array[0])
                 # print('var_array[1]: ', var_array[1])
                 if var_array[1] == "delete":
                     data[i] = ""
-                data[i] = data[i].replace(var_array[0], var_array[1])
+                data[i] = re.sub(
+                    re.escape(var_array[0]),
+                    var_array[1].lower(),
+                    data[i],
+                    flags=re.IGNORECASE,
+                )
     with open(file_path, "w") as file:
         file.writelines(data)
