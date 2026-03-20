@@ -11,7 +11,7 @@ from modules.sortLines import sortLines
 
 
 def scssHandler(file_path, variables_path, agree_to_rem):
-    if agree_to_rem.lower() == "y":
+    if agree_to_rem:
         convert_to_rem_func(file_path)
     removeComment(file_path)
     deleteLines(file_path)
