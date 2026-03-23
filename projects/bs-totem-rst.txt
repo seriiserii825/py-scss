@@ -1,0 +1,3 @@
+Inter|delete
+var(--Violet-Dark, #00068D)|var(--accent)
+#00068D|var(--accent)
