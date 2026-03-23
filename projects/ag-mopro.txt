@@ -1,0 +1,8 @@
+Playfair Display|delete
+Inter|var(--font-2)
+var(--Brown-Darkest, #1B1A15)|var(--text-color)
+var(--Blue, #0071C0)|var(--accent)
+var(--White, #FFF)|var(--contrast)
+#1B1A15|var(--text-color)
+#C4972B|var(--brown)
+#F4F2EE|var(--light)
