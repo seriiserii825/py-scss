@@ -1,0 +1,4 @@
+Instrument Sans|delete
+#C5B050|var(--contrast)
+var(--Red, #FF3A3A)|var(--accent)
+#FF3A3A|var(--accent)
