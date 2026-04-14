@@ -1,0 +1,6 @@
+Helvetica Neue|delete
+Playfair Display|var(--font-2)
+#F7F5F2|var(--accent)
+#1F2A24|var(--contrast)
+#EFE9E2|var(--light)
+#FFF|var(--light)
