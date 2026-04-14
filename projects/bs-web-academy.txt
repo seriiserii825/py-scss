@@ -1,0 +1,5 @@
+Manrope|delete
+var(--Blue-Dark-1, #23497C)|var(--accent-dark)
+#23497C|var(--accent-dark)
+var(--Blue-Darker, #0C3469)|var(--accent-solid)
+#0C3469|var(--accent-solid)
