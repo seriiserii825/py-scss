@@ -3,8 +3,6 @@ def deleteLines(file_path):
         data = file.readlines()
     for i in range(len(data)):
         to_delete = [
-            "font-style: normal",
-            "line-height: normal",
             "font-feature-settings",
             "text-overflow",
             "overflow",
