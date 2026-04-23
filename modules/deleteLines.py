@@ -7,6 +7,8 @@ def deleteLines(file_path):
             "text-overflow",
             "overflow",
             "font-kerning",
+            "leading-trim",
+            "text-edge",
         ]
         if any(prop in data[i] for prop in to_delete):
             data[i] = ""

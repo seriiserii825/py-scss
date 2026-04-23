@@ -1,1 +1,4 @@
+Gilroy|delete
 #EA641D|var(--accent)
+#3a2e2a|var(--text-color)
+Lora|var(--font-2)
