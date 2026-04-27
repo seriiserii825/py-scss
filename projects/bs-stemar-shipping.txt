@@ -1,3 +1,5 @@
 "Instrument Sans"|delete
 var(--Blue, #054694)|var(--accent)
 #054694|var(--accent)
+var(--Gray, #808285)|var(--contrast)
+#808285|var(--contrast)
