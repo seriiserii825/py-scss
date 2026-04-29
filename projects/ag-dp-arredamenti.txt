@@ -1,0 +1,4 @@
+Inter|delete
+#E51D20|var(--accent)
+#343434|var(--contrast)
+"Libre Franklin"|var(--font-2)
