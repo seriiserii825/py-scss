@@ -1,0 +1,3 @@
+var(--color-black-solid, #000)|delete
+var(--font-family-Font-1, "Helios Antique")|delete
+var(--font-weight-400, 400)|400
