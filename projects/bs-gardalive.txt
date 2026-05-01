@@ -7,3 +7,5 @@ var(--color-fixed-white, #fff)|#fff
 var(--font-weight-500, 500)|500
 var(--letter-spacing--0_5, -0.501px)|-0.501px
 var(--line-height-40_46, 40.46px)|40.46px
+var(--color-grey-97, #f8f8f8)|var(--bg-light-gray)
+var(--color-grey-90, #E5E5E5)|var(--bg-gray)
