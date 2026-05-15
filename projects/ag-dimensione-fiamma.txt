@@ -1,4 +1,6 @@
 "Roboto Condensed"|delete
+"Asap Condensed"|delete
+'Asap Condensed'|delete
 -webkit-text-stroke-width|delete
 -webkit-text-stroke-color|delete
 Inter|var(--font-2)
