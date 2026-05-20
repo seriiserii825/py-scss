@@ -1,3 +1,4 @@
 "Albert Sans"|delete
+Archivo|var(--font-2)
 #C81D25|var(--accent)
 #5B5B5B|var(--contrast)
