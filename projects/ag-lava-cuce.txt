@@ -1,0 +1,5 @@
+#0055A7|var(--accent)
+#1E293B|var(--text-color)
+#7AC943|var(--contrast)
+#6DBAEA|var(--light)
+"Plus Jakarta Sans"|delete
