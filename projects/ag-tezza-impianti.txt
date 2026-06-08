@@ -1,0 +1,4 @@
+"Helvetica Neue"|delete
+#06C|var(--accent)
+#0B1F33|var(--contrast)
+#071421|var(--text-color)
