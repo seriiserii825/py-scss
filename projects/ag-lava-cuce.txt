@@ -2,4 +2,5 @@
 #1E293B|var(--text-color)
 #7AC943|var(--contrast)
 #6DBAEA|var(--light)
+#CE0027|var(--red)
 "Plus Jakarta Sans"|delete
