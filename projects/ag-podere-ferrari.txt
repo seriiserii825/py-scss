@@ -1,0 +1,8 @@
+"Instrument Sans"|delete
+Lora|var(--font-2)
+"Lyster PERSONAL USE ONLY"|var(--font-3)
+#8E1F1F|var(--accent)
+#352013|var(--text-color)
+#E9D8B5|var(--cream)
+#FFFDF8|var(--light)
+#8A5B3D|var(--contrast)
