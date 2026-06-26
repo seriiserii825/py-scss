@@ -1,0 +1,4 @@
+Poppins|delete
+#2F429A|var(--accent)
+#0D2B4F|var(--text-color)
+#D96B1F|var(--contrast)
