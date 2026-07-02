@@ -3,3 +3,5 @@
 var(--deep_blue_main_text, #00568F)|var(--accent-dark)
 var(--Blue-Brand, #1C99D0)|var(--light)
 var(--deeper_blue_main_text, #002C49)|var(--text-color)
+var(--White, #fff)|var(--contrast)
+
