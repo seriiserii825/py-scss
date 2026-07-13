@@ -1,0 +1,11 @@
+Gazeta|delete
+Playfair Display|var(--font-2)
+#C8B07A|var(--accent)
+#8a7545|var(--accent-dark)
+#FFF|var(--white)
+#f8f8f8|var(--light)
+#d8d8d8|var(--gray-light)
+#6e6e6e|var(--gray)
+#161616|var(--contrast)
+#2b2b2b|var(--contrast-secondary)
+#0b0b0b|var(--text-color)
