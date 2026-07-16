@@ -2,6 +2,8 @@ var(--color-black-solid, #000)|delete
 var(--font-family-Font-2, "DM Mono")|var(--font-2)
 "DM Mono"|var(--font-2)
 'DM Mono'|var(--font-2)
+'Inter'|var(--font-3)
+Inter|var(--font-3)
 var(--font-family-Font-1, "Helios Antique")|delete
 'Helios Antique'|delete
 "Helios Antique"|delete
