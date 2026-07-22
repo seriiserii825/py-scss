@@ -1,0 +1,8 @@
+Rethink Sans|delete
+Big Shoulders Display|var(--font-2)
+Inter|var(--font-3)
+#E8620A|var(--accent)
+#F4A61E|var(--accent-light)
+#0D1F2D|var(--contrast)
+#FFF|var(--white)
+#F5F0E8|var(--cream)
