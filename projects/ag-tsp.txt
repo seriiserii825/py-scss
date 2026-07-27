@@ -1,0 +1,7 @@
+Aeonik|delete
+var(--Red, #E84D30)|var(--accent)
+var(--White, #FFF)|var(--white)
+var(--Dark, #07192E)|var(--contrast)
+var(--Gray, #6B6B6B)|var(--gray)
+var(--Gray-Light, #BDBDBD)|var(--light-gray)
+var(--Blue, #5573B9)|var(--blue)

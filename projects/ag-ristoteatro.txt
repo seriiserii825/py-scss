@@ -1,5 +1,5 @@
-Rethink Sans|delete
-Big Shoulders Display|var(--font-2)
+"Rethink Sans"|delete
+"Big Shoulders Display"|var(--font-2)
 Inter|var(--font-3)
 #E8620A|var(--accent)
 #F4A61E|var(--accent-light)
