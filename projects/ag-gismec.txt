@@ -1,0 +1,4 @@
+"Segoe UI"|delete
+#15A5DE|var(--accent)
+#FFF|var(--text-color)
+#15181D|var(--contrast)
