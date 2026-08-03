@@ -1,0 +1,7 @@
+Inter|delete
+"Lexend Deca"|var(--font-2)
+#22C55E|var(--accent)
+#0D2B4F|var(--contrast)
+#01A0D3|var(--contrast-light)
+var(--Blue, #01A0D3)|var(--contrast-light)
+#FFF|var(--white)
