@@ -1,5 +1,6 @@
 Inter|delete
 #F0EE09|var(--accent)
+#FFFE00|var(--accent-light)
 #FFF|var(--white)
 #000|var(--black)
 #202020|var(--text-light)
