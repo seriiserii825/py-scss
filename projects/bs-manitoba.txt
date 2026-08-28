@@ -1,0 +1,3 @@
+Poppins|delete
+#2F343A|var(--bg-dark-color)
+#C91F2C|var(--accent)
