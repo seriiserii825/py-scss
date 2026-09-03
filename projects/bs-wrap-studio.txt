@@ -1,4 +1,8 @@
 "Instrument Sans"|delete
+var(--Gray, #626262)|delete
+#626262|delete
+var(--Dark-Blue, #00203C)|var(--text-dark)
+#00203C|var(--text-dark)
 Michroma|var(--font-2)
 var(--Yellow, #FCAF16)|var(--accent)
 #dbcc00|var(--accent-dark)
