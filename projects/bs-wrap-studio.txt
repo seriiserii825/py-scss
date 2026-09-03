@@ -1,0 +1,4 @@
+"Instrument Sans"|delete
+Michroma|var(--font-2)
+var(--Yellow, #FCAF16)|var(--accent)
+#dbcc00|var(--accent-dark)
