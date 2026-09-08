@@ -1,0 +1,6 @@
+"Suisse Intl"|delete
+'Suisse Intl'|delete
+var(--Green, #1fa67a)|var(--contrast)
+#1fa67a|var(--contrast)
+var(--Digital, #335CD8)|var(--accent)
+#335cd8|var(--accent)
