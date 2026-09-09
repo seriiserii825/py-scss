@@ -1,6 +1,5 @@
 "Suisse Intl"|delete
 'Suisse Intl'|delete
-var(--White, #ffffff)|delete
 var(--Green, #1fa67a)|var(--contrast)
 #1fa67a|var(--contrast)
 var(--Digital, #335CD8)|var(--accent)
@@ -9,3 +8,4 @@ var(--Dark-Blue, #130f23)|var(--accent-dark)
 #130f23|var(--accent-dark)
 var(--Light-Gray, #ababab)|var(--light-gray)
 #ababab|var(--light-gray)
+var(--White, #FFF)|#fff
