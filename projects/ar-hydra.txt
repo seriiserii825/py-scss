@@ -1,0 +1,8 @@
+"Graphik Web"|delete
+Graphik Web|delete
+var(--Blue, #004DA7)|var(--accent)
+#004DA7|var(--accent)
+#09213D|var(--accent-dark)
+var(--Blue-Graysh, #566F8C)|var(--text-color)
+#566f8c|var(--text-color)
+var(--Red, #B43A39)|var(--Red)
