@@ -1,5 +1,7 @@
 'Inter'|delete
+Inter|delete
 'Sora'|var(--font-2)
+Sora|var(--font-2)
 #09382f|var(--accent)
 #07080a|var(--accent-dark)
 #3b4a45|var(--accent-light)
