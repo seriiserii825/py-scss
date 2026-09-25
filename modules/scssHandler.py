@@ -1,6 +1,5 @@
-import subprocess
+from py_libs.Clipboard import Clipboard
 
-from libs.buffer import addToClipBoardFile
 from modules.convertToRem import convertToRem
 from modules.convertVariables import convertVariables
 from modules.deleteLines import deleteLines
@@ -19,9 +18,7 @@ def scssHandler(file_path, variables_path, agree_to_rem):
     sortLines(file_path)
     removeEmptyLines(file_path)
     with open(file_path, "r") as file:
-        addToClipBoardFile(file_path)
-        file_content = file.read()
-        subprocess.Popen(["notify-send", file_content])
+        Clipboard.write(file.read())
 
 
 def convert_to_rem_func(file_path: str):

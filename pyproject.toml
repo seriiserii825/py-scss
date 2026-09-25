@@ -17,8 +17,6 @@ dependencies = [
     "py-libs",
     "pycodestyle (==2.14.0)",
     "pyflakes (==3.4.0)",
-    "pyperclip (==1.9.0)",
-    "termcolor (==3.1.0)",
     "typing-extensions (==4.14.1)",
 ]
 

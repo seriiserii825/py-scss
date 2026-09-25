@@ -1,16 +1,16 @@
 import os
 
-from termcolor import colored
+from py_libs.Print import Print
 
 
 def checkVariableFile(variables_file):
     if not os.path.isfile(variables_file):
-        print(colored("File variables not found", "red"))
+        Print.error("File variables not found")
         # create file
         os.system("touch " + variables_file)
     # if file is empty
     if os.stat(variables_file).st_size == 0:
-        print(colored("File variables is empty", "red"))
+        Print.error("File variables is empty")
         exit()
     else:
         # remove empty lines

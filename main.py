@@ -2,14 +2,15 @@ import os
 import time
 import argparse
 
-import pyperclip
-from termcolor import colored
+from py_libs.Clipboard import Clipboard
+from py_libs.Print import Print
 
 from modules.checkVariableFile import checkVariableFile
 from modules.scssHandler import scssHandler
 
 if not os.path.isfile("package.json"):
-    exit(colored("File package.json not found", "red"))
+    Print.error("File package.json not found")
+    exit(1)
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--to-rem", action="store_true", help="Convert px to rem")
@@ -36,7 +37,7 @@ last_clipboard_content = ""
 
 # Continuously monitor the clipboard for changes
 while True:
-    current_clipboard_content = pyperclip.paste()
+    current_clipboard_content = Clipboard.read()
     if current_clipboard_content != last_clipboard_content:
         temp_file = os.path.join(projects_dir, "temp.txt")
         with open(temp_file, "w") as file:
