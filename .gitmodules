@@ -1,0 +1,3 @@
+[submodule "libs/py-libs"]
+	path = libs/py-libs
+	url = git@github.com:seriiserii825/py-libs.git
