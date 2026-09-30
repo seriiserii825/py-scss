@@ -1,6 +1,6 @@
 Inter|delete
 "Inter"|delete
-"Cormorant Garamond"|var(font-2)
+"Cormorant Garamond"|var(--font-2)
 #FFF|var(--white)
 #0C101D|var(--black)
 #019|var(--accent)
