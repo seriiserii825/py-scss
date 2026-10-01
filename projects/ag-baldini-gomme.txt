@@ -2,6 +2,9 @@ Inter|delete
 "Inter"|delete
 "Cormorant Garamond"|var(--font-2)
 #FFF|var(--white)
+var(--White, #FFF)|var(--white)
 #0C101D|var(--black)
 #019|var(--accent)
+var(--Blue-Main, #019)|var(--accent)
 #181818|var(--text-color)
+var(--Black, #181818)|var(--text-color)
