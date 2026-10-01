@@ -1,6 +1,7 @@
 Inter|delete
 "Inter"|delete
 "Cormorant Garamond"|var(--font-2)
+"Cormorant Infant"|var(--font-3)
 #FFF|var(--white)
 var(--White, #FFF)|var(--white)
 #0C101D|var(--black)
