@@ -1,0 +1,3 @@
+#1370a2|var(--accent)
+#0b3553|var(--accent-dark)
+rgba(255, 255, 255, 0.07)|var(--accent-light)
