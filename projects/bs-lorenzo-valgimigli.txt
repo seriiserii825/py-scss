@@ -1,0 +1,5 @@
+"Suisse Intl"|delete
+Suisse Intl|delete
+#8c6a40|var(--accent)
+"EB Garamond"|var(--font-2)
+EB Garamond|var(--font-2)
