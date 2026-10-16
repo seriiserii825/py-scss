@@ -3,3 +3,5 @@ Suisse Intl|delete
 #8c6a40|var(--accent)
 "EB Garamond"|var(--font-2)
 EB Garamond|var(--font-2)
+var(--Black-Text, #0E0F11)|var(--text-color)
+#0E0F11|var(--text-color)
