@@ -1,6 +1,7 @@
 from py_libs.Clipboard import Clipboard
 
 from modules.convertToRem import convertToRem
+from modules.convertTypography import convertTypography
 from modules.convertVariables import convertVariables
 from modules.deleteLines import deleteLines
 from modules.has_convert_to_rem import has_convert_to_rem
@@ -10,6 +11,7 @@ from modules.sortLines import sortLines
 
 
 def scssHandler(file_path, variables_path, agree_to_rem):
+    convertTypography(file_path)
     if agree_to_rem:
         convert_to_rem_func(file_path)
     removeComment(file_path)
